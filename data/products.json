@@ -1,0 +1,219 @@
+[
+  {
+    "id": "p1",
+    "slug": "chatgpt-plus-access",
+    "title": "ChatGPT Plus Access",
+    "category": "Software",
+    "price": 14.99,
+    "region": "Global",
+    "visible": true,
+    "featured": true,
+    "heroWord": "GPT",
+    "artGradient": "linear-gradient(135deg,#1d4ed8 0%, #0f172a 40%, #0b1120 100%)",
+    "shortDescription": "Premium ChatGPT subscription listing with curated seller quality.",
+    "description": "ChatGPT Plus style access listing prepared for a premium storefront demo. Ideal to verify that search terms like chatgpt, chat gpt, chtgpt, or cgpt resolve to the right result.",
+    "tags": [
+      "chatgpt",
+      "openai",
+      "ai",
+      "software",
+      "plus"
+    ],
+    "aliases": [
+      "chatgpt",
+      "chat gpt",
+      "openai chatgpt",
+      "gpt plus",
+      "cgpt",
+      "chtgpt"
+    ],
+    "seller": {
+      "name": "NovaByte Seller",
+      "rating": 99.2,
+      "reviews": 8214,
+      "soldCount": 32650,
+      "deliveryTime": "5-15 min",
+      "country": "Singapore",
+      "reviewNote": "Fast automated delivery and strong after-sale support",
+      "sourceSeller": "NovaByte",
+      "sourceRef": "SELLER-CHGPT-001"
+    }
+  },
+  {
+    "id": "p2",
+    "slug": "canva-pro-access",
+    "title": "Canva Pro Access",
+    "category": "Software",
+    "price": 7.99,
+    "region": "Global",
+    "visible": true,
+    "featured": true,
+    "heroWord": "CANVA",
+    "artGradient": "linear-gradient(135deg,#0ea5e9 0%, #111827 45%, #05263b 100%)",
+    "shortDescription": "Design subscription offer with curated seller quality.",
+    "description": "Canva Pro access listing for design creators, teams, and content workflows.",
+    "tags": [
+      "canva",
+      "design",
+      "software"
+    ],
+    "aliases": [
+      "canva",
+      "canva pro",
+      "canvaa",
+      "design tool"
+    ],
+    "seller": {
+      "name": "PixelTrust",
+      "rating": 98.8,
+      "reviews": 5221,
+      "soldCount": 19874,
+      "deliveryTime": "10-20 min",
+      "country": "Malaysia",
+      "reviewNote": "Consistent fulfillment for design subscriptions",
+      "sourceSeller": "PixelTrust",
+      "sourceRef": "SELLER-CANVA-203"
+    }
+  },
+  {
+    "id": "p3",
+    "slug": "netflix-premium-global",
+    "title": "Netflix Premium Global",
+    "category": "Streaming",
+    "price": 8.99,
+    "region": "Global",
+    "visible": true,
+    "featured": true,
+    "heroWord": "NETFLIX",
+    "artGradient": "linear-gradient(135deg,#b91c1c 0%, #111827 50%, #360404 100%)",
+    "shortDescription": "Streaming plan with typo-aware matching for netflix and netflx.",
+    "description": "Netflix Premium style listing for a storefront demo with strong typo handling.",
+    "tags": [
+      "netflix",
+      "streaming",
+      "video"
+    ],
+    "aliases": [
+      "netflix",
+      "netflx",
+      "netflix premium"
+    ],
+    "seller": {
+      "name": "StreamLoom",
+      "rating": 99.0,
+      "reviews": 11220,
+      "soldCount": 47011,
+      "deliveryTime": "Instant",
+      "country": "UAE",
+      "reviewNote": "High volume streaming seller",
+      "sourceSeller": "StreamLoom",
+      "sourceRef": "SELLER-NET-058"
+    }
+  },
+  {
+    "id": "p4",
+    "slug": "spotify-premium-global",
+    "title": "Spotify Premium Global",
+    "category": "Music",
+    "price": 5.49,
+    "region": "Global",
+    "visible": true,
+    "featured": false,
+    "heroWord": "SPOTIFY",
+    "artGradient": "linear-gradient(135deg,#16a34a 0%, #111827 45%, #07240f 100%)",
+    "shortDescription": "Music subscription listing with trusted seller history.",
+    "description": "Spotify Premium style listing for music access and account service.",
+    "tags": [
+      "spotify",
+      "music",
+      "streaming"
+    ],
+    "aliases": [
+      "spotify",
+      "spotfy",
+      "music subscription"
+    ],
+    "seller": {
+      "name": "EchoMarket",
+      "rating": 98.6,
+      "reviews": 4080,
+      "soldCount": 15300,
+      "deliveryTime": "10 min",
+      "country": "Turkey",
+      "reviewNote": "Reliable premium music delivery",
+      "sourceSeller": "EchoMarket",
+      "sourceRef": "SELLER-SPOT-089"
+    }
+  },
+  {
+    "id": "p5",
+    "slug": "xbox-game-pass-ultimate",
+    "title": "Xbox Game Pass Ultimate",
+    "category": "Gaming",
+    "price": 11.49,
+    "region": "Global",
+    "visible": true,
+    "featured": false,
+    "heroWord": "XBOX",
+    "artGradient": "linear-gradient(135deg,#16a34a 0%, #0f172a 50%, #04150d 100%)",
+    "shortDescription": "Gaming subscription with strong seller reputation.",
+    "description": "Xbox Game Pass listing for gaming-focused buyers.",
+    "tags": [
+      "xbox",
+      "game pass",
+      "gaming"
+    ],
+    "aliases": [
+      "xbox",
+      "game pass",
+      "xbx"
+    ],
+    "seller": {
+      "name": "ConsoleCore",
+      "rating": 99.4,
+      "reviews": 9650,
+      "soldCount": 28100,
+      "deliveryTime": "15 min",
+      "country": "Hong Kong",
+      "reviewNote": "Well-reviewed gaming subscription seller",
+      "sourceSeller": "ConsoleCore",
+      "sourceRef": "SELLER-XBX-330"
+    }
+  },
+  {
+    "id": "p6",
+    "slug": "microsoft-365-family",
+    "title": "Microsoft 365 Family",
+    "category": "Software",
+    "price": 9.49,
+    "region": "Global",
+    "visible": true,
+    "featured": false,
+    "heroWord": "365",
+    "artGradient": "linear-gradient(135deg,#f97316 0%, #111827 50%, #2b1205 100%)",
+    "shortDescription": "Productivity software listing with global region filter.",
+    "description": "Microsoft 365 Family style product listing for productivity tools.",
+    "tags": [
+      "microsoft",
+      "office",
+      "365",
+      "software"
+    ],
+    "aliases": [
+      "microsoft 365",
+      "office 365",
+      "micosoft"
+    ],
+    "seller": {
+      "name": "OfficeDock",
+      "rating": 98.9,
+      "reviews": 6302,
+      "soldCount": 20840,
+      "deliveryTime": "5 min",
+      "country": "India",
+      "reviewNote": "Stable office subscription seller",
+      "sourceSeller": "OfficeDock",
+      "sourceRef": "SELLER-365-778"
+    }
+  }
+]

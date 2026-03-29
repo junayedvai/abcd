@@ -1,0 +1,15 @@
+{
+  "hero": {
+    "badge": "Global region \u2022 curated seller quality",
+    "title": "A premium digital storefront for trusted global products",
+    "subtitle": "Built for a branded buyer experience, smart search, seller-quality filtering, and private admin control.",
+    "primaryCta": "Search products",
+    "quickSearches": [
+      "chatgpt",
+      "netflix",
+      "canva",
+      "spotify",
+      "xbox"
+    ]
+  }
+}
